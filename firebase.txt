@@ -1,0 +1,10 @@
+
+
+{
+  "rules": {
+		"prueba-ef8eb": {
+      ".read": true,
+    	".write": true
+    }
+  }
+}
